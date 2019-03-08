@@ -1,0 +1,36 @@
+h1 {
+    color:#ffffff;
+    width:300px;
+    padding:10px;
+}
+
+body {
+    padding:10px;
+    font-family: arial;
+}
+
+.botui-container {
+    background-color:white;
+}
+
+.introd {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.mainc {
+    text-align: center;
+}
+
+.name {
+    outline-width: 0;
+    text-align: center;
+    border: 0;
+    border-bottom: 1px solid white;
+    height:30px;
+    font-size:24px;
+    background-color:#ff621d;
+    color:white;
+    font-weight: 600;
+}

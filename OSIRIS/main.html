@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello.</title>
+    <link rel="stylesheet" type="text/css" href="./main.css">
+    <link rel="stylesheet" type="text/css" href="./node_modules/fullpage.js/dist/fullpage.css" />
+</head>
+
+<body>
+    <div id="fullpage">
+
+        <div class="section active">
+            <div class="introd">
+                <h1>My name is OSIRIS</h1>
+            </div>
+
+            <div class="introd">
+                <h1>a social bot designed for academia</h1>
+            </div>
+
+
+        </div>
+        <div class="section active">
+            <div class="introd">
+                <h1>What's your first name? </h1>
+            </div>
+
+            <div class="introd">
+                <input class="name" type="text" name="FirstName">
+            </div>
+        </div>
+
+
+        <div class="section">
+            <div class="slide" id="slide1">
+                <div class="introd">
+                    <h1>Link your Infinite Campus Account</h1>
+                </div>
+
+                <div class="introd">
+                    <h1>Username</h1>
+                </div>
+                <div class="introd">
+                    <input class="name" type="text" name="FirstName" value="2220701102">
+                </div>
+                <div class="introd">
+                    <h1>Password</h1>
+                </div>
+                <div class="introd">
+                    <input class="name" type="text" name="FirstName" value="********">
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="section active" id="section0">
+            <div class="introd">
+                <h1>Go Forward!</h1>
+            </div>
+
+            <div class="introd">
+                <button id="but" type="button">Enter OSIRIS</button>
+            </div>
+
+        </div>
+
+
+
+
+</body>
+
+<script type="text/javascript" src="./node_modules/fullpage.js/dist/fullpage.js"></script>
+<script>
+    // You can also require other files to run in this process
+    require('./sign.js')
+</script>
+
+</html>
