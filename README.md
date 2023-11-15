@@ -1,8 +1,7 @@
 <div align="center">
     <a href="https://jeraldy.com"><h1 align="center">Osiris</h1></a>
 
-Or, my pre-GPT era AI (GOFAI) Chatbot. Built with pure HTML5/CSS, Javascript, Java, [Electron](https://www.electronjs.org/), and deployed to [Github Pages](https://classito.github.io/MyFuture/pages/riasecPage.html).
-
+Or, my pre-GPT era AI (GOFAI) Chatbot. Built with pure HTML5/CSS, Javascript, Java, [Electron](https://www.electronjs.org/)
 </div>
 
 <br/>
